@@ -118,6 +118,22 @@ After analyzing the data, I visualize the data with pie chart and bar graphs to 
 
 * *Members spend significantly less minutes in all the bikes compared to casual riders and they do not use docked bikes at all. In addition, casual riders spend the most time on docked bikes in relative to other bikes.*
 
+---
+
+## 6. Act
+
+### Conclusion
+After analyzing and visualizing the data, some major findings that I found were larger percentage of members compared to casual riders, higher preferences for classic bike for riders, popularity in bike usage during summer and fall, and higher average ride duration for casual riders. Additionally, docked bike is the least popular bike due its long riding time as indicated by average spent time in casual riders. 
+
+### Recommendations
+
+* Due to high popularity in bike usage throughout the summer and early fall, it would be a good idea to launch a **incentive campaign** to maintain or increase bike usage
+* Casual riders spend more time in riding bike, therefore providing some kind of **discounts or promotions** for electric bike would help them save some time
+* Launch **marketing campaign** that target the benefits of converting into annual membership for casual riders through advertisements, emails, and brochures
+
+
+
+
 
 
 
