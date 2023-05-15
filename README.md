@@ -77,7 +77,52 @@ The analyze phase will explore the question "How do annual members and casual ri
 ---
 
 ## 5. Share
-After analyzing the data, I visualize the data with pie chart and bar graphs to discern the differences in bike patterns visually between annual and casual members. Data visualization is a powerful tool to draw insights quickly
+After analyzing the data, I visualize the data with pie chart and bar graphs to discern the differences in bike patterns visually between member and casual riders. Data visualization is a powerful tool to draw insights quickly
+
+#### Visualization #1: Percentage Distribution of Annual and Casual Riders
+<img width="600" alt="Annual vs  Casual Pie Chart" src="https://github.com/hoang-nguyen1/Google-Data-Analytics-Capstone-Project/assets/81605575/cb060111-5ca2-40ba-826c-6023cff24f3e">
+
+* *Overall, there are more member than casual riders (60% vs. 40%).*
+
+
+#### Visualization #2: Total Number of Rides by Bike and Member Types
+<img width="600" alt="Screenshot 2023-05-15 at 12 30 56 PM" src="https://github.com/hoang-nguyen1/Google-Data-Analytics-Capstone-Project/assets/81605575/872c6113-7c33-4965-b920-3aaedb3264bb">
+
+* *Between these three bikes (classic bike, docked bike, and electric bike), classic bike is the most popular type of bike among member and casual riders. Furthermore, members have higher number of rides for classic and electric bikes than casual riders (due to larger proportion of members). Unlike casual riders, they do not use docked bikes.*
+
+
+#### Visualization #3: Total Number of Rides by Member Types and Day of Week
+
+<img width="600" alt="Screenshot 2023-05-15 at 12 46 26 PM" src="https://github.com/hoang-nguyen1/Google-Data-Analytics-Capstone-Project/assets/81605575/c8411f56-02fe-47d4-b48d-2a9b4bccd3f9">
+
+* *During weekdays, there are high amount of bike usage among members compared to casual riders. However, casual riders increase their bike usage in the weekend.*
+
+
+#### Visualization #4: Total Number of Rides by Member Types and Month
+
+<img width="600" alt="Screenshot 2023-05-15 at 12 55 03 PM" src="https://github.com/hoang-nguyen1/Google-Data-Analytics-Capstone-Project/assets/81605575/1c928694-c2dc-4d92-8244-ae6091c66ed0">
+
+* *For both member and casual riders, bike usage is lowest in the beginning and at the end of the year (January-April and November-December). These members prefer to use bikes throughout  the middle of the year, which indicate they have higher preferences in bike usage during the summer and fall.*
+
+
+#### Visualization #5: Average Ride Duration Spent by Member Types
+
+<img width="600" alt="Screenshot 2023-05-15 at 1 03 15 PM" src="https://github.com/hoang-nguyen1/Google-Data-Analytics-Capstone-Project/assets/81605575/fa7532c4-7b84-4dac-9d99-1b58ebcf6fe9">
+
+* *On average, casual riders spend roughly two times more than members in riding bikes (indicated in minutes).*
+
+
+#### Visualization #6: Average Ride Duration Spent by Member and Bike Types
+
+<img width="600" alt="Screenshot 2023-05-15 at 1 08 14 PM" src="https://github.com/hoang-nguyen1/Google-Data-Analytics-Capstone-Project/assets/81605575/ad26ef5a-496a-403d-8ef9-1f862f7e20a7">
+
+* *Members spend significantly less minutes in all the bikes compared to casual riders and they do not use docked bikes at all. In addition, casual riders spend the most time on docked bikes in relative to other bikes.*
+
+
+
+
+
+
 
 
 
